@@ -1,0 +1,36 @@
+
+body {
+    font-family: "Red Hat Display", sans-serif ;
+}
+h1 {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 900;
+    color: hsl(223, 47%, 23%)
+}
+
+p {
+    font-family : "Red Hat Display", sans-serif;
+    font-weight : 500;
+    color: hsl(224, 23%, 55%);
+}
+
+#annual-plan {
+
+}
+
+.pale-blue {
+color: hsl(225, 100%, 94%);
+}
+.Bright-blue  {
+color:hsl(245, 75%, 52%);
+}
+
+.Very-pale-blue {
+color: hsl(225, 100%, 98%);
+}
+.Desaturated-blue {
+color: hsl(224, 23%, 55%);
+} 
+.Dark-blue { 
+color: hsl(223, 47%, 23%);
+}
